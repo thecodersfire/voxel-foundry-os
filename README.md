@@ -26,4 +26,4 @@ The `voxel-foundry-os.svg` wallpaper is original. Voxel Foundry OS is an indepen
 See [FEATURES.md](FEATURES.md) for three local tools included for 3D modeling, parametric CAD, and 3D-print design.
 
 
-The installer includes 43 purpose-specific applications beyond its core selection; the complete list is in [FEATURES.md](FEATURES.md).
+Blender is included in every setup, alongside the purpose-specific apps listed in [FEATURES.md](FEATURES.md).
