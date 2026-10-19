@@ -39,3 +39,25 @@ The setup installs these ten Flathub apps selected for 3D modeling, parametric C
 10. **GNOME Papers** — read project and reference PDFs (org.gnome.Papers)
 
 Flathub distributes the app packages. Check each publisher license and terms. This repository contains app IDs and documentation, not third-party binaries.
+
+## Fifteen more purpose-specific preinstalled applications
+
+These applications add tools suited to this setup focus. They are installed from Flathub by the setup scripts.
+
+1. **Pixelorama** (com.orama_interactive.Pixelorama) — draw pixel-art sprites and frame-based animations.
+2. **Synfig Studio** (org.synfig.SynfigStudio) — create vector-based 2D animations.
+3. **OpenToonz** (io.github.OpenToonz) — produce hand-drawn and cutout 2D animation.
+4. **DBeaver Community** (io.dbeaver.DBeaverCommunity) — browse, query, and manage SQL databases.
+5. **Gitg** (org.gnome.gitg) — review Git history and branches graphically.
+6. **Thunderbird** (org.mozilla.Thunderbird) — manage email and communication accounts.
+7. **digiKam** (org.kde.digikam) — catalog, tag, and batch-process large photo collections.
+8. **Shotwell** (org.gnome.Shotwell) — import, sort, and make quick edits to photo libraries.
+9. **JabRef** (org.jabref.jabref) — organize BibTeX references and research citations.
+10. **Godot Engine** (org.godotengine.Godot) — build and test 2D and 3D games.
+11. **OBS Studio** (com.obsproject.Studio) — record or stream sessions.
+12. **GNOME Clocks** (org.gnome.clocks) — time work sessions and events.
+13. **GNOME Extensions** (org.gnome.Extensions) — manage GNOME desktop extensions.
+14. **VSCodium** (com.vscodium.codium) — edit code and project files.
+15. **GNOME Calendar** (org.gnome.Calendar) — schedule sessions, deadlines, and events.
+
+Emulator frontends do not include game ROMs or copyrighted game files; supply only files you are legally allowed to use.
