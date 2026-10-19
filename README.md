@@ -26,8 +26,4 @@ The `voxel-foundry-os.svg` wallpaper is original. Voxel Foundry OS is an indepen
 See [FEATURES.md](FEATURES.md) for three local tools included for 3D modeling, parametric CAD, and 3D-print design.
 
 
-The installer also includes three purpose-specific applications: **GIMP, Inkscape, Krita**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **GIMP, Inkscape, Krita**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **PrusaSlicer, GIMP, Inkscape**. See [FEATURES.md](FEATURES.md).
+The installer includes ten more applications selected for this distro's purpose. See [FEATURES.md](FEATURES.md) for the list.

@@ -22,3 +22,20 @@ The installer adds these three Flathub applications for 3D modeling, parametric 
 3. **Inkscape** — org.inkscape.Inkscape
 
 They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
+
+## Ten more purpose-specific preinstalled applications
+
+The setup installs these ten Flathub apps selected for 3D modeling, parametric CAD, and 3D-print design:
+
+1. **FreeCAD** — design mechanical parts (org.freecadweb.FreeCAD)
+2. **KiCad** — design circuits and PCBs (org.kicad.KiCad)
+3. **Arduino IDE** — write and upload microcontroller sketches (cc.arduino.IDE2)
+4. **GNOME Calculator** — perform scientific and financial calculations (org.gnome.Calculator)
+5. **GNOME Boxes** — test workflows in virtual machines (org.gnome.Boxes)
+6. **GNOME Text Editor** — edit plain-text notes and configuration files (org.gnome.TextEditor)
+7. **GNOME Logs** — inspect logs during troubleshooting (org.gnome.Logs)
+8. **Disk Usage Analyzer** — find large files and manage storage (org.gnome.baobab)
+9. **Flatseal** — review Flatpak app permissions (com.github.tchx84.Flatseal)
+10. **GNOME Papers** — read project and reference PDFs (org.gnome.Papers)
+
+Flathub distributes the app packages. Check each publisher license and terms. This repository contains app IDs and documentation, not third-party binaries.
