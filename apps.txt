@@ -4,3 +4,8 @@ com.opera.opera-gx
 org.blender.Blender
 org.freecad.FreeCAD
 org.openscad.OpenSCAD
+
+# Three additional preinstalled purpose-specific applications
+com.prusa3d.PrusaSlicer
+org.gimp.GIMP
+org.inkscape.Inkscape
