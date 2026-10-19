@@ -38,3 +38,20 @@ org.gnome.clocks
 org.gnome.Extensions
 com.vscodium.codium
 org.gnome.Calendar
+
+# Fifteen further preinstalled purpose-specific applications
+org.kde.kdevelop
+org.kde.kate
+org.gnome.meld
+org.kde.kdiff3
+org.kde.okular
+org.kde.gwenview
+org.kde.kolourpaint
+org.kde.dolphin
+org.kde.ark
+io.github.flattool.Warehouse
+com.github.flxzt.rnote
+org.kde.konsole
+org.kde.kcalc
+org.kde.kblocks
+org.kde.kubrick
